@@ -10,7 +10,7 @@ int is_palindrome(listint_t **head);
 
 /**
  * reverse_listint - Reverses a singly-linked
- * @head: A pointer to the starting node 
+ * @head: A pointer to the starting node
  *
  * Return: A pointer
  */
@@ -41,7 +41,7 @@ int is_palindrome(listint_t **head)
 {
 	listint_t *tmp, *rev, *mid;
 	size_t size = 0;
-        size_t i;
+	size_t i;
 
 	if (*head == NULL || (*head)->next == NULL)
 		return (1);
