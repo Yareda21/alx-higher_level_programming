@@ -7,8 +7,8 @@ Expect content related to languages like Python, JavaScript, or other high-level
 ## Folder Structure and Titles:
 Explore the repository’s folder structure to find specific topics and projects.
 Look for directories with descriptive titles that hint at the content within.
-Common folders might include:
-    # python/: Likely contains Python-related code and projects.
+## Common folders might include:
+    \t# python/: Likely contains Python-related code and projects.
     # web/: Could involve web development, HTML, CSS, and JavaScript.
     # frameworks/: May cover various frameworks (e.g., Flask, Django, React).
     # algorithms/: Potentially includes algorithm implementations.
